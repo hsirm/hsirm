@@ -9,6 +9,16 @@ neural dynamics and adaptive intelligence.
 
 
 Here are some additional pointers to my work:
+
+- **Mirzaei H.**, Mathis M. W.
+[Adversarially Robust Out-of-Distribution Detection Using Lyapunov-Stabilized Embeddings.](https://arxiv.org/pdf/2410.10744?)                                                             
+The Thirteenth International Conference on Learning Representations (ICLR) 2025.
+
+- **Mirzaei H.**, Nafez M., Habibi J., Sabokrou M., Rohban M.  
+  [Adversarially Robust Anomaly Detection through Spurious Negative Pair Mitigation.](https://openreview.net/pdf?id=t8fu5m8R5m)  
+  The Thirteenth International Conference on Learning Representations **(ICLR) 2025**
+
+
  
 - **Mirzaei H.**, Nafez M., Jafari M., Soltani M., Habibi J., Sabokrou M., Rohban M.  
   [Universal Novelty Detection through Adaptive Contrastive Learning.](https://openaccess.thecvf.com/content/CVPR2024/papers/Mirzaei_Universal_Novelty_Detection_Through_Adaptive_Contrastive_Learning_CVPR_2024_paper.pdf)  
