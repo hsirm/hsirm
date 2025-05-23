@@ -5,7 +5,7 @@
 I am a PhD student at EPFL.
 
 
-Here are some additional pointers to my work:
+Here are some pointers to my work:
 
 - **Mirzaei H.**, Mathis M. W.
 [Adversarially Robust Out-of-Distribution Detection Using Lyapunov-Stabilized Embeddings.](https://arxiv.org/pdf/2410.10744?)                                                             
