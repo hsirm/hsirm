@@ -2,10 +2,7 @@
 
 ### Hi, I'm Hossein 👋
 
-I am a PhD student at EPFL. My research lies at the intersection of NeuroAI and ML, exploring how biological principles can
-inspire novel algorithms and improve our understanding of the brain. This transition builds
-on my background in trustworthy and robust ML, while opening avenues to address complex questions about
-neural dynamics and adaptive intelligence.
+I am a PhD student at EPFL.
 
 
 Here are some additional pointers to my work:
